@@ -10,7 +10,6 @@ import com.dataox_tt.bohdan.abramovych.generator.PeopleListGenerator;
 import lombok.SneakyThrows;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 import java.util.stream.IntStream;
